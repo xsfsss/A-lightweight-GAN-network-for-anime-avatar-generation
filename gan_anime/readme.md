@@ -28,7 +28,7 @@ Author：xsfsss
 
 ​										
 
-![image-20230423145246749](C:\Users\xsfsss\AppData\Roaming\Typora\typora-user-images\image-20230423145246749.png)
+![1](readmeimgs\1.png)
 
 ## 训练过程数据展示
 
@@ -38,21 +38,21 @@ Author：xsfsss
 
 <small>512x512 CnnGAN</small>
 
-![image-20230423142111993](C:\Users\xsfsss\AppData\Roaming\Typora\typora-user-images\image-20230423142111993.png)
+![2](readmeimgs\2.png)
 
 ### 128x128 的 CnnGAN:
 
 <small>128x128 CnnGAN</small>
 
-![image-20230423142139156](C:\Users\xsfsss\AppData\Roaming\Typora\typora-user-images\image-20230423142139156.png)调整后：
+![3](readmeimgs\3.png)调整后：
 
-![image-20230423142201692](C:\Users\xsfsss\AppData\Roaming\Typora\typora-user-images\image-20230423142201692.png)
+![4](readmeimgs\4.png)
 
 ### 128x128 的全连接:
 
 <small>128x128 Fully connected</small>
 
-![](C:\Users\xsfsss\AppData\Roaming\Typora\typora-user-images\image-20230423142531730.png)
+![5](readmeimgs\5.png)
 
 ## To start
 
